@@ -1,15 +1,14 @@
 # Keras
 
-
-[![](Ç¥Áö.png)](https://github.com/ElenaSSun/Keras/blob/master/6%EC%9E%A5/6.1%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.pdf)
+[![](í‘œì§€.PNG)](https://github.com/ElenaSSun/Keras/blob/master/6%EC%9E%A5/6.1%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.pdf)
 
 ```
 git add *  
-±ê¿¡ »õ·Î¿î ¸ğµç ³»¿ëÀ» Ãß°¡
+ê¹ƒì— ìƒˆë¡œìš´ ëª¨ë“  ë‚´ìš©ì„ ì¶”ê°€
 
 git commit -m "first commit"  
-ºÎÁ¦¸ñ
+ë¶€ì œëª©
 
 git push -u origin master  
-±êÇãºê¿¡ ¿Ã¸®±â
-```¿ÀÈÄ 4:07 2020-02-11
+ê¹ƒí—ˆë¸Œì— ì˜¬ë¦¬ê¸°
+```ì˜¤í›„ 4:07 2020-02-11
